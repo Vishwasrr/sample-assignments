@@ -1,0 +1,10 @@
+{
+    "test_data1": {
+        "email": "vishwas",
+        "password": "vishwas@23"
+    },
+    "test_data2": {
+        "email": "sukesh",
+        "password": "sukesh@123"
+    }
+}
